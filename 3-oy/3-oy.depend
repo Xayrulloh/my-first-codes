@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1628598918 source:c:\users\user\desktop\bir\3-oy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1628598918 >
+
+1629119066 source:/home/xayrulloh/code blokcs/bir/3-oy/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
